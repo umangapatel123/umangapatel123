@@ -1,4 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)]()
+[![MasterHead](./assets/github-header-image.png)]()
+
 <h1 align="center">Hi 👋, I'm Umang Patel</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Codingimage" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
