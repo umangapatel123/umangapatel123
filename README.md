@@ -1,6 +1,6 @@
 [![MasterHead](./assets/github-header-image.png)]()
 
-<h1 align="center">Hi 👋, I'm Umang Patel</h1>
+<!-- <h1 align="center">Hi 👋, I'm Umang Patel</h1> -->
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Codingimage" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
